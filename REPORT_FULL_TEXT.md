@@ -40,4 +40,5 @@ because California and New York are also states with large economies or large po
 
 ## Page 10
 
-References U.S. Bureau of Economic Analysis. (n.d.-a). GDP by state . Retrieved May 29, 2026, from https://www.bea.gov/data/gdp/gdp-state U.S. Bureau of Economic Analysis. (n.d.-b). Personal income by state . Retrieved May 29, 2026, from https://www.bea.gov/data/income-saving/personal-income-by-state kbrookshier. (n.d.). US Census State Population Estimates 2010–2019 [Data set]. Kaggle. Retrieved May 29, 2026, from https://www.kaggle.com/datasets/kbrookshier/us-census-state-population-estimates-20102019 
+                                                          References
+U.S. Bureau of Economic Analysis. (n.d.-a). GDP by state . Retrieved May 29, 2026, from https://www.bea.gov/data/gdp/gdp-state U.S. Bureau of Economic Analysis. (n.d.-b). Personal income by state . Retrieved May 29, 2026, from https://www.bea.gov/data/income-saving/personal-income-by-state kbrookshier. (n.d.). US Census State Population Estimates 2010–2019 [Data set]. Kaggle. Retrieved May 29, 2026, from https://www.kaggle.com/datasets/kbrookshier/us-census-state-population-estimates-20102019 
