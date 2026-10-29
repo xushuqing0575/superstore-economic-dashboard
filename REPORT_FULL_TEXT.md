@@ -1,4 +1,4 @@
-# Original report: full text
+# Data Report: 
 
 The PDF is preserved unchanged in [analysis-report.pdf](analysis-report.pdf). This transcription retains every page, including references and the AI acknowledgment; images are linked separately in [ANALYSIS.md](ANALYSIS.md).
 
@@ -40,4 +40,4 @@ because California and New York are also states with large economies or large po
 
 ## Page 10
 
-References U.S. Bureau of Economic Analysis. (n.d.-a). GDP by state . Retrieved May 29, 2026, from https://www.bea.gov/data/gdp/gdp-state U.S. Bureau of Economic Analysis. (n.d.-b). Personal income by state . Retrieved May 29, 2026, from https://www.bea.gov/data/income-saving/personal-income-by-state kbrookshier. (n.d.). US Census State Population Estimates 2010–2019 [Data set]. Kaggle. Retrieved May 29, 2026, from https://www.kaggle.com/datasets/kbrookshier/us-census-state-population-estimates-20102019 AI Acknowledgments I acknowledge the use of ChatGPT (https://chat.openai.com/) to generate materials that were included within my final assessment in modified form. I entered the following prompts on 29 May 2026: ● Can you help me calculate the superstore total revenue and total profit by yearly? ● How can i combine the character with * and without * together cuz they are the same. ● Do i need to use ungroup there?
+References U.S. Bureau of Economic Analysis. (n.d.-a). GDP by state . Retrieved May 29, 2026, from https://www.bea.gov/data/gdp/gdp-state U.S. Bureau of Economic Analysis. (n.d.-b). Personal income by state . Retrieved May 29, 2026, from https://www.bea.gov/data/income-saving/personal-income-by-state kbrookshier. (n.d.). US Census State Population Estimates 2010–2019 [Data set]. Kaggle. Retrieved May 29, 2026, from https://www.kaggle.com/datasets/kbrookshier/us-census-state-population-estimates-20102019 
