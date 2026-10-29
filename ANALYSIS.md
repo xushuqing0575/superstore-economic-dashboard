@@ -4,7 +4,7 @@
 
 I wanted to understand Superstore's US sales and profit performance from 2011 to 2014, rather than stop at a ranking of the largest markets. The R dashboard combines retail records with state GDP, population and income per capita. Tableau adds a closer look at regional margins, monthly sales and product profitability.
 
-This write-up covers the analytical sections in my original report and adds the Tableau analysis. The [unaltered ten-page report](analysis-report.pdf), [complete text](REPORT_FULL_TEXT.md), original charts and original R code are included. Values below are checked against the supplied data; the report retains its original approximations and wording.
+This write-up covers the analytical sections in my original report and adds the Tableau analysis. The [complete text](REPORT_FULL_TEXT.md), original charts and original R code are included. Values below are checked against the supplied data; the report retains its original approximations and wording.
 
 ## Data and methods
 
@@ -147,4 +147,4 @@ The original report identifies:
 
 Other income links previously considered: [USA Census Income Data](https://www.kaggle.com/datasets/manishkc06/usa-census-income-data), [Poverty-Level Wages](https://www.kaggle.com/datasets/asaniczka/poverty-level-wages-in-the-usa-dataset-1973-2022), and [Incomes of 30K USA Citizens](https://www.kaggle.com/datasets/jacopoferretti/incomes-of-30k-usa-citizens). The implementation uses the BEA state income spreadsheet; these additional links are not represented as inputs to that workflow.
 
-The report acknowledges ChatGPT assistance on May 29, 2026 with annual totals, cleaning asterisks from state names and use of `ungroup()`. Its acknowledgment is preserved in full in the original PDF and transcription. This expanded portfolio write-up and data verification were also prepared with AI assistance.
+The report acknowledges ChatGPT assistance on May 29, 2026 with annual totals, cleaning asterisks from state names and use of `ungroup()`. Its acknowledgment is preserved in full in the transcription. This expanded portfolio write-up and data verification were also prepared with AI assistance.

@@ -9,7 +9,7 @@ I wanted to know where Superstore was selling well, and where those sales were a
 **West generated 31.6% of sales. Texas ranked third by sales, but lost $25,729.** That gap between revenue and profit became the main thread of the analysis.
 
 - [Detailed analysis and charts](ANALYSIS.md)
-- [Original ten-page report](analysis-report.pdf) · [Complete report text](REPORT_FULL_TEXT.md)
+- [Complete report text](REPORT_FULL_TEXT.md)
 - [Download Tableau workbook with data](Superstore_R_Tableau.twbx?raw=true) · [Original saved .twb](tableau.twb)
 - [Notebook](project.ipynb) · [Portfolio](https://xushuqing0575.github.io/#superstore)
 
